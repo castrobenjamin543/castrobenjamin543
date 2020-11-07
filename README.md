@@ -1,4 +1,4 @@
-!["My cover page"]("images/myCoverpage.png")
+![My cover page](images/myCoverpage.png)
 
 😀 Hello my name is benjamin castro, I am a self-taught frontend web developer.
 
